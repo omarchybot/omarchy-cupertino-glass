@@ -25,7 +25,7 @@ A refined macOS-inspired clear frosted glass theme for [Omarchy](https://omarchy
 ### Option 1: One-Line Install via Omarchy CLI
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-cupertino-glass.git
+omarchy theme install https://github.com/pandaind/omarchy-cupertino-glass.git
 ```
 
 ### Option 2: Full Local Installation (Recommended)
@@ -33,7 +33,7 @@ omarchy theme install https://github.com/<your-username>/omarchy-cupertino-glass
 To enable custom window geometry rules (12px rounding, soft drop shadows, and terminal opacity overrides), clone or copy the theme directly into your user themes directory:
 
 ```bash
-git clone https://github.com/<your-username>/omarchy-cupertino-glass.git ~/.config/omarchy/themes/cupertino-glass
+git clone https://github.com/pandaind/omarchy-cupertino-glass.git ~/.config/omarchy/themes/cupertino-glass
 omarchy theme set "Cupertino Glass"
 ```
 
