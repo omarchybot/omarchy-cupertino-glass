@@ -56,24 +56,3 @@ omarchy theme bg next
 omarchy theme-switcher
 ```
 
----
-
-## 📁 Repository Structure
-
-```text
-omarchy-cupertino-glass/
-├── colors.toml         # Base palette and Apple HIG color definitions
-├── shell.toml          # Omarchy shell surfaces (bar, popups, menus, notifications)
-├── hyprland.lua        # Hyprland window decorations, blur passes, and layer rules
-├── ghostty.conf        # Ghostty terminal styling (opacity + blur)
-├── kitty.conf          # Kitty terminal styling (opacity + blur)
-├── alacritty.toml      # Alacritty terminal styling (opacity + blur)
-├── icons.theme         # System icon theme (Yaru-blue)
-├── preview.png         # High-resolution theme preview image
-└── backgrounds/        # 4K macOS wallpapers
-    ├── 01-Sonoma-Dark.jpg
-    ├── 02-Monterey-Dark.jpg
-    ├── 03-Ventura-Dark.jpg
-    ├── 04-WhiteSur-Dark.jpg
-    └── 05-Sonoma-Light.jpg
-```
