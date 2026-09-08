@@ -1,0 +1,40 @@
+mode = "dark"
+
+accent = "#0a84ff"
+selection = "#264f78"
+selection_foreground = "#ffffff"
+selection_background = "#0a84ff"
+muted = "#8e8e93"
+
+background = "#16181d"
+dark_background = "#121316"
+darker_background = "#0c0d0f"
+lighter_background = "#24272e"
+
+foreground = "#f5f5f7"
+dark_foreground = "#86868b"
+light_foreground = "#ffffff"
+bright_foreground = "#ffffff"
+
+active_border_color = "#0a84ff"
+active_tab_background = "#0a84ff"
+
+# Apple System Palette
+red = "#ff453a"
+yellow = "#ffd60a"
+orange = "#ff9f0a"
+green = "#30d158"
+cyan = "#64d2ff"
+blue = "#0a84ff"
+magenta = "#bf5af2"
+brown = "#ac8e68"
+
+bright_red = "#ff6961"
+bright_yellow = "#ffe066"
+bright_green = "#63e6be"
+bright_cyan = "#70d7ff"
+bright_blue = "#409cff"
+bright_magenta = "#da8fff"
+
+hyprland_active_border = "rgba(0a84ffee) rgba(64d2ffee) 45deg"
+hyprland_inactive_border = "rgba(ffffff18)"
