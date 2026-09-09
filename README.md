@@ -28,6 +28,19 @@ A refined macOS-inspired clear frosted glass theme for [Omarchy](https://omarchy
 ```bash
 omarchy theme install https://github.com/pandaind/omarchy-cupertino-glass.git
 ```
+
+> [!NOTE]
+> Omarchy's security model automatically sandboxes git-installed themes by omitting custom Lua rules and terminal configs. To unlock full frosted glass blur, window rounding, and terminal translucency, use **Option 2** below.
+
+### Full Local Installation (Recommended for Glass Blur & Geometry)
+
+Clone the repository and symlink it into your themes directory (or remove the `.git` folder from the themes directory so Omarchy enables full Lua and terminal styling):
+
+```bash
+git clone https://github.com/pandaind/omarchy-cupertino-glass.git ~/Projects/omarchy-cupertino-glass
+ln -s ~/Projects/omarchy-cupertino-glass ~/.config/omarchy/themes/cupertino-glass
+omarchy theme set "Cupertino Glass"
+```
 ---
 
 ## 🚀 Usage
